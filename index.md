@@ -1,7 +1,7 @@
 ---
 layout: page
 tags: [formatting]
-title: "Home"
+title: "Resource Awareness in Programming: Algebra, Rewriting, and Analysis"
 ---
 
 This is a project about resource aware programming, including the following universities:
