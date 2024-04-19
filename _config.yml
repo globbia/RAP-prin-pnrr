@@ -8,8 +8,8 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Dependencies
-#markdown:         redcarpet
-#highlighter:      pygments
+markdown:         redcarpet
+highlighter:      pygments
 
 # Layout
 
